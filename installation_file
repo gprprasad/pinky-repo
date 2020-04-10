@@ -1,5 +1,5 @@
 Install the Git bash in windows and setup.
 Initialize the new repository and create some files after that perform basic commands on that like "git add/git commit/git push"
-when you pushing the files to the remote repository first clone the latest code from your remote.
-After cloning the latest code,then do "git push"
+when you are pushing the files to the remote repository , first clone the latest code from your remote.
+After cloning the latest code then do "git push"
 
