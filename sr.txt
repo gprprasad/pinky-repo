@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 "strsta"
 
-this is good
+this is very good
 
 ends
+=======
+"starts"
+this is good
+
+this may reflect
+#end
+>>>>>>> master
